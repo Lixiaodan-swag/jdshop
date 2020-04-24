@@ -1,0 +1,107 @@
+{
+  "id": "1722400",
+  "name": "京东",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6924597",
+      "name": "我 的",
+      "font_class": "wodedangxuan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7206377",
+      "name": "购物车",
+      "font_class": "che",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10232750",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "11098078",
+      "name": "京东icon-01",
+      "font_class": "jingdongicon-",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "634019",
+      "name": "箭头",
+      "font_class": "jiantou1",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "2121726",
+      "name": "旅游",
+      "font_class": "lvyou",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "3670107",
+      "name": "优惠券",
+      "font_class": "tubiaolunkuo-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6319094",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "6334506",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "7256699",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "7550278",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "8159861",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "13751091",
+      "name": "云",
+      "font_class": "yun",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1115048",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
